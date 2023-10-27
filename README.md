@@ -13,7 +13,7 @@ It is fairly easy to install the project, all you need to do is clone if from
 [GitHub](https://github.com/gustavojm/rema_proxy)
 
 ```bash
-git clone https://github.com/gustavojm/rema_proxy
+git clone https://github.com/GMalano-NASA/rema_proxy
 ```
 
 After finishing getting a copy of the project...
